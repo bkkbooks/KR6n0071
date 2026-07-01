@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR6n0071/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0071/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中邊分別論
+  identifiers:
+    krp: KR6n0071
+    cbeta: T31n1599
+    cbeta_old_id: T31n1599
+    authorityid: CA0004100
+    json_key: T1599
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1599.xml
+    old_id: T31n1599
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0071_000-T.yaml, hash: 'sha256:ea94409289c6c42fb46f676820d8be08dd47662b1c1f8fc65d6aad6cb10d2948'}
+  - {seq: 1, filename: KR6n0071_001-T.yaml, hash: 'sha256:e7dd3b5344374b27665686554f978cc703b85ee5b8c4ca54b61421711659e0fa'}
+  - {seq: 2, filename: KR6n0071_002-T.yaml, hash: 'sha256:fa2c71fae753c1071b118f02e7ad80a9a152f62a62f833a421e0c160b3a98d40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0071_000-T.markers.yaml, hash: 'sha256:a740f234323dacf32384fa8b032862e9463b08d3f0222ada6f5cede8bee9f88a'}
+  - {seq: 1, role: markers, filename: assets/KR6n0071_001-T.markers.yaml, hash: 'sha256:f95f6629cacfd4d6a62edb2ec889f8a8950f47b8efa719e611575f0f8a3c4934'}
+  - {seq: 2, role: markers, filename: assets/KR6n0071_002-T.markers.yaml, hash: 'sha256:8b425e5bed434cf971b965682ddc108116bec94d2fb3af07b2a9d42f98d19ad2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0071_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8649
+  label: 中邊分別論卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0071_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0071_T_001-mulu-2
+    span:
+    - body
+    - 2911
+    - 2911
+  label: 2 障品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0071_T_001-mulu-3
+    span:
+    - body
+    - 5202
+    - 5202
+  label: 3 真實品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0071_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7743
+  label: 中邊分別論卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0071_T_002-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 4 對治修住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0071_T_002-mulu-2
+    span:
+    - body
+    - 1870
+    - 1870
+  label: 5 修住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0071_T_002-mulu-3
+    span:
+    - body
+    - 2262
+    - 2262
+  label: 6 得果品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0071_T_002-mulu-4
+    span:
+    - body
+    - 2849
+    - 2849
+  label: 7 無上乘品
+  type: mulu
+  level: 1
+hash: sha256:71bcf000253b0a849cd7ebd1b94b6719289518cf283f7d7a0baafd489b76b107

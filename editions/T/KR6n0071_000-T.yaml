@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0071/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中邊分別論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1599.xml
+    old_id: T31n1599
+hash: sha256:ea94409289c6c42fb46f676820d8be08dd47662b1c1f8fc65d6aad6cb10d2948
